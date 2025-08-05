@@ -1,0 +1,11 @@
+*/.git
+*/.github
+*/.gitignore
+*/.gitattributes
+.dockerignore
+results
+data
+*.filelist
+/data_server/target
+checkpoints
+pretrained_models
